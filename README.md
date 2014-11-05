@@ -1,4 +1,4 @@
-ECS37o2 International Trade
+ECS3702 International Trade
 =
 Study Notes
 -
