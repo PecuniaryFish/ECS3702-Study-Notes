@@ -1,4 +1,4 @@
-ECS03072 International Trade
+ECS3072 International Trade
 =
 Study Notes
 -
