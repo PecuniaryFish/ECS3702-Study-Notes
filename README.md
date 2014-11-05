@@ -1,6 +1,6 @@
-Study Notes
-=
 ECS7032 International Trade
+=
+Study Notes
 -
 
 Study Notes for BCOM UNISA module ECS3702 International Trade
