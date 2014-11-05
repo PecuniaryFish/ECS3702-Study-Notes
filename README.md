@@ -1,6 +1,8 @@
 ECS7034 study notes
 =
-Study notes for UNISA module ECS3704. 
+International Trade
+-
+Study Notes for BCOM UNISA module ECS3702 International Trade
 
 Grab [PDF](https://github.com/PecuniaryFish/ECS3702-Study-Notes/blob/master/ecs3702notes.pdf?raw=true "PDF")
 
